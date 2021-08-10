@@ -19,17 +19,17 @@ Contact me at:
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandar-galabov-a467771b0/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="LinkedIn" width="30px">
-  </a>
+  </a> 
 
-  <a href="mailto:galabovalexandar@gmail.com" style="margin-left: 10px">
+  <a href="mailto:galabovalexandar@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="E-mail" width="30px">
-  </a>
+  </a> 
 
-  <a href="https://www.facebook.com/alexandar.galabov"  style="margin-left: 10px">
+  <a href="https://www.facebook.com/alexandar.galabov">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30px"> 
-  </a>
+  </a> 
 
-  <a href="https://www.instagram.com/alexandargalabov" style="margin-left: 10px">
+  <a href="https://www.instagram.com/alexandargalabov">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="Instagram" width="30px">
   </a>
 </p>
