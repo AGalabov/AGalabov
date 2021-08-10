@@ -1,15 +1,15 @@
 # Hello, folks! 👋
 
-My name is Alexandar Galabov and I am from Sofia, Bulgaria.
-I like experimenting with new technologies and building small projects.
+My name is Alexandar Galabov and I am from Sofia, Bulgaria. A very active and outgoing person with passion for most sports out there.
+I also like experimenting with new technologies and building small projects.
 
-Here's some information on the thins I currently keep myself busy with:
+Here's some information on the things I currently keep myself busy with:
 
 - 🧑‍💻 Working as a Software Developer at [Astea Solutions](https://asteasolutions.com/).
-- 💻 Being a mentor in our company's internship program.
+- 💻 Mentoring in our company's internship program.
 - 🎓 Working towards a Master's degree in Technology interpreneurship at Sofia University
-- 📚 Teaching various programming courses at Sofia University in
-- 🏓 Professional table tennis player in our local league
+- 📚 Teaching various programming courses at Sofia University
+- 🏓 Professional table tennis player
 - 🎯 2021 goal: Contribute more to Personal and Open Source projects
 
 <p align="center">
