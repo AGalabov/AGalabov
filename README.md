@@ -34,6 +34,33 @@ Contact me at:
   </a>
 </p>
 
+## Technologies and Tools
+
+### Tools:
+
+![VS Code](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=blue)
+![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=brightgreen)
+![firebase](https://img.shields.io/badge/firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
+![swagger](https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white&color=brightgreen)
+![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=red)
+
+### Work experience:
+
+![Typescript](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=blue)
+![Redux](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=red)
+![Node.JS](https://img.shields.io/badge/Node.JS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=red)
+
+### Experimented with:
+
+![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=brightgreen)
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange)
+![scala](https://img.shields.io/badge/scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=red)
+![haskell](https://img.shields.io/badge/haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=blueviolet)
+![php](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white&color=9cf)
+![ruby](https://img.shields.io/badge/ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=red)
+
 ## Some stats about me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGalabov&theme=algolia&layout=compact&exclude_repo=scala-fmi-2019,Tourist-BG&langs_count=8)![My github stats](https://github-readme-stats.vercel.app/api?username=AGalabov&show_icons=true&theme=algolia&custom_title=My Code Contribution)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGalabov&theme=algolia&layout=compact&exclude_repo=scala-fmi-2019,Tourist-BG&langs_count=8)
+![My github stats](https://github-readme-stats.vercel.app/api?username=AGalabov&show_icons=true&theme=algolia&custom_title=My Code Contribution)
