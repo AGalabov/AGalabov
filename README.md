@@ -34,10 +34,6 @@ Contact me at:
   </a>
 </p>
 
-# Some stats about me
+## Some stats about me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGalabov&theme=algolia&layout=compact&exclude_repo=scala-fmi-2019,Tourist-BG&langs_count=5)
-
-<br />
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=AGalabov&show_icons=true&theme=algolia&custom_title=My Code Contribution)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGalabov&theme=algolia&layout=compact&exclude_repo=scala-fmi-2019,Tourist-BG&langs_count=8)      ![My github stats](https://github-readme-stats.vercel.app/api?username=AGalabov&show_icons=true&theme=algolia&custom_title=My Code Contribution)
