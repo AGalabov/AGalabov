@@ -7,7 +7,7 @@ Here's some information on the things I currently keep myself busy with:
 
 - 🧑‍💻 Working as a Software Developer at [Astea Solutions](https://asteasolutions.com/).
 - 💻 Mentoring in our company's internship program.
-- 🎓 Working towards a Master's degree in Technology interpreneurship at Sofia University
+- 🎓 Working towards a Master's degree in Technology entrepreneurship at Sofia University
 - 📚 Teaching various programming courses at Sofia University
 - 🏓 Professional table tennis player
 - 🎯 2022 goal: Contribute more to Personal and Open Source projects
