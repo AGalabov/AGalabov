@@ -6,11 +6,12 @@ I also like experimenting with new technologies and building small projects.
 Here's some information on the things I currently keep myself busy with:
 
 - 🧑‍💻 Working as a Software Developer at [Astea Solutions](https://asteasolutions.com/).
-- 💻 Mentoring in our company's internship program.
-- 🎓 Working towards a Master's degree in Technology entrepreneurship at Sofia University
-- 📚 Teaching various programming courses at Sofia University
-- 🏓 Professional table tennis player
-- 🎯 2022 goal: Contribute more to Personal and Open Source projects
+- 💻 Main contributor of [@asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi).
+- 👨‍🏫 Mentoring in our company's internship programs.
+- 🎓 Working towards a Master's degree in Technology entrepreneurship at Sofia University.
+- 📚 Teaching various programming courses at Sofia University.
+- 🏓 Professional table tennis player.
+- 🎯 2022 goal: Contribute more to Personal and Open Source projects.
 
 <p align="center">
 Contact me at:
@@ -60,7 +61,7 @@ Contact me at:
 ![php](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white&color=9cf)
 ![ruby](https://img.shields.io/badge/ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=red)
 
-## Some stats about me
+## Some stats about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGalabov&theme=algolia&layout=compact&exclude_repo=scala-fmi-2019,Tourist-BG&langs_count=8)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AGalabov&show_icons=true&theme=algolia&custom_title=My Code Contribution)
