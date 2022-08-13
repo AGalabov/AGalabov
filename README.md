@@ -8,7 +8,8 @@ Here's some information on the things I currently keep myself busy with:
 - 🧑‍💻 Working as a Software Developer at [Astea Solutions](https://asteasolutions.com/).
 - 💻 Main contributor of [@asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi).
 - 👨‍🏫 Mentoring in our company's internship programs.
-- 🎓 Working towards a Master's degree in Technology entrepreneurship at Sofia University.
+- 🎓 A Bachelor degree in Software Engineering at Sofia University.
+- 🎓 A Master's degree in Technology entrepreneurship at Sofia University.
 - 📚 Teaching various programming courses at Sofia University.
 - 🏓 Professional table tennis player.
 - 🎯 2022 goal: Contribute more to Personal and Open Source projects.
