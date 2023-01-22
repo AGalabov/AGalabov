@@ -10,7 +10,7 @@ Here's some information on the things I currently keep myself busy with:
 - 👨‍🏫 Mentoring in our company's internship programs.
 - 🎓 A Bachelor degree in Software Engineering at Sofia University.
 - 🎓 A Master's degree in Technology entrepreneurship at Sofia University.
-- 📚 Teaching various programming courses at Sofia University.
+- 🕺 Attending Bachata & Salsa courses
 - 🏓 Professional table tennis player.
 - 🎯 2023 goal: Contribute more to Personal and Open Source projects.
 
