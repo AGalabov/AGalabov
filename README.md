@@ -12,7 +12,7 @@ Here's some information on the things I currently keep myself busy with:
 - 🎓 A Master's degree in Technology entrepreneurship at Sofia University.
 - 📚 Teaching various programming courses at Sofia University.
 - 🏓 Professional table tennis player.
-- 🎯 2022 goal: Contribute more to Personal and Open Source projects.
+- 🎯 2023 goal: Contribute more to Personal and Open Source projects.
 
 <p align="center">
 Contact me at:
