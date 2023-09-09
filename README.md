@@ -5,7 +5,7 @@ I also like experimenting with new technologies and building small projects.
 
 Here's some information on the things I currently keep myself busy with:
 
-- 🧑‍💻 Working as a Senior Software Developer at [Astea Solutions](https://asteasolutions.com/).
+- 🧑‍💻 Working as a Senior Software Engineer at [Astea Solutions](https://asteasolutions.com/).
 - 💻 Main contributor of [@asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi).
 - 👨‍🏫 Mentoring in our company's internship programs.
 - 🎓 A Bachelor degree in Software Engineering at Sofia University.
