@@ -6,14 +6,14 @@ I also like experimenting with new technologies and building small projects.
 Here's some information on the things I currently keep myself busy with:
 
 - 🧑‍💻 Working full-time as a Senior Software Engineer at [Astea Solutions](https://asteasolutions.com/).
-- 🤖 Working part-time as a Senior Software Engineer at [Team-GPT](https://team-gpt.com/).
+- 🤖 Worked part-time as a Senior Software Engineer at [Team-GPT](https://team-gpt.com/).
 - 💻 Main contributor of [@asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi).
 - 👨‍🏫 Mentoring in our company's internship programs.
 - 🎓 A Bachelor degree in Software Engineering at Sofia University.
 - 🎓 A Master's degree in Technology entrepreneurship at Sofia University.
 - 🕺 Attending Bachata & Salsa courses
 - 🏓 Professional table tennis player.
-- 🎯 2024 goal: Contribute more to Personal and Open Source projects.
+- 🎯 2025 goal: Contribute more to Personal and Open Source projects.
 
 <p align="center">
 Contact me at:
